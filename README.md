@@ -1,9 +1,5 @@
 # Team-Venus-Heart-Attack-Chance-Predictor
-A heart attack chance predictor made in a 36hours online hackathon Hacktrix organized by SRM.
 
-NAME:	HEART ATTACK CHANCES PREDICTOR
-
-TRACKS: HEALTHCARE
 
 IDEA:
 Our idea is to create a neural network model that trains itself based on a provided dataset and predicts the chances of heart attack for a particular person. The information in the dataset includes basic fields like age, gender, BMI, blood pressure and other biological factors of a person. Based on these past records and symptoms collected via a survey from various people and sources, our trained model predicts if a person has chances of a heart attack with maximum accuracy possible depending on the number of epochs.
