@@ -1,4 +1,4 @@
-# Team-Venus-Heart-Attack-Chance-Predictor
+# Heart-Attack-Chance-Predictor
 
 
 IDEA:
@@ -27,4 +27,4 @@ How to execute?
 2. first run the hearttrain.py 
 3. then run hearttest.py to get the predicted results on the test dataset and check accuracy.
 
--From Team Venus
+
